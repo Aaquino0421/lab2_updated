@@ -102,7 +102,7 @@
           <div class="col-lg-4 col-md-6">
             <div class="journal-info mb-30">
 
-              <a href="act2.html"><img src="images/kim.png" height = 300 width = 270 class="img-responsive" alt="img"></a>
+              <a href="act2.html"><img src="images/Kim.png" height = 300 width = 270 class="img-responsive" alt="img"></a>
 
               <div class="journal-txt">
 
@@ -182,7 +182,7 @@
            <div class="col-lg-4 col-md-6">
             <div class="journal-info mb-30">
 
-              <a href="act7.html"><img src="images/invitation.jpg" height = 300 width = 270 class="img-responsive" alt="img"></a>
+              <a href="act7.html"><img src="images/invitation.JPG" height = 300 width = 270 class="img-responsive" alt="img"></a>
 
               <div class="journal-txt">
 

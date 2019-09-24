@@ -78,7 +78,7 @@
             <div class="container-main single-main">
               <div class="col-md-12">
                 <div class="block-main mb-30">
-                  <img src="images/nivek.jpg" height = 700 class="img-responsive" alt="reviews2">
+                  <img src="images/nivek.JPG" height = 700 class="img-responsive" alt="reviews2">
                   <div class="content-main single-post padDiv">
                     <div class="journal-txt">
                       <h4><a href="#">PERSONA</a></h4>
