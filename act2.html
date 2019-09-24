@@ -78,7 +78,7 @@
             <div class="container-main single-main">
               <div class="col-md-12">
                 <div class="block-main mb-30">
-                  <img src="images/kim.png" height = 500 class="img-responsive" alt="reviews2">
+                  <img src="images/kim.webp" height = 500 class="img-responsive" alt="reviews2">
                   <div class="content-main single-post padDiv">
                     <div class="journal-txt">
                       <h4><a href="#">FAVORITE APPLICATION - KIM KARDASHIAN</a></h4>
