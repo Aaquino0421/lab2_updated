@@ -56,7 +56,7 @@
           <li><a href="#header" class="smoothScroll">Home</a></li>
           <li><a href="#about" class="smoothScroll">About</a></li>
           <li><a href="#portfolio" class="smoothScroll">Learnings</a></li>
-          <li><a href="activities.html" class="smoothScroll">Activities</a></li>
+          <li><a href="acts.html" class="smoothScroll">Activities</a></li>
           <li><a href="blog-grid.html" class="smoothScroll">Reflection</a></li>
           <li><a href="project.html" class="smoothScroll">Project</a></li>
           <li><a href="contact.html" class="smoothScroll">Contact</a></li>
