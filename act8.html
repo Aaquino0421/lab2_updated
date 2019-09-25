@@ -102,7 +102,7 @@
          			<p> A 3x3 Grid Layout Design for a webpage with pictures and dummy text.</p>
                     <div class="col-lg-4 col-md-6">
           				<div class="journal-info mb-30">
-              			<img src="images/grid.jpg" height = 250 alt="img"></a>
+              			<img src="images/grid.JPG" height = 250 alt="img"></a>
              			 	<div class="journal-txt">
               				</div>
             			</div>

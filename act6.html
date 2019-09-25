@@ -90,6 +90,8 @@
                         <li class="commont"><i class="ion-ios-heart-outline"></i><a href="#">0 Comment</a></li>
                       </ul>
                     </div>
+                    <p class="mb-30">PERSONA</p>
+                    <p class="mb-30">Stated here is my persona where I created which can be used on our project - Travel Mo To.</p>
                   </div>
                 </div>
               </div>
